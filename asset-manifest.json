@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QLEvaluationAssignment/static/css/main.3ce23c5e.css",
+    "main.js": "/QLEvaluationAssignment/static/js/main.067b424c.js",
+    "static/js/787.7b8caa9c.chunk.js": "/QLEvaluationAssignment/static/js/787.7b8caa9c.chunk.js",
+    "index.html": "/QLEvaluationAssignment/index.html",
+    "main.3ce23c5e.css.map": "/QLEvaluationAssignment/static/css/main.3ce23c5e.css.map",
+    "main.067b424c.js.map": "/QLEvaluationAssignment/static/js/main.067b424c.js.map",
+    "787.7b8caa9c.chunk.js.map": "/QLEvaluationAssignment/static/js/787.7b8caa9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ce23c5e.css",
+    "static/js/main.067b424c.js"
+  ]
+}
